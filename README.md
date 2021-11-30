@@ -8,7 +8,7 @@ This repository contains the python notebooks for several algorithms discussed a
 1. **Newton_Raphson method** - Newton_Raphson.ipynb
 2. **Cauchy's Steepest Descent** - CauchySteepDesc_ConjGradDesc.ipynb
 3. **Conjugate Gradient Descent** - CauchySteepDesc_ConjGradDesc.ipynb
-4. **Mutlivariable optimization using Penalty Function** - 
+4. **Mutlivariable optimization using Penalty Function** -  Cylindrical_MultiVariable_Penalty.ipynb
 
 ## Constrained Optimization
 
