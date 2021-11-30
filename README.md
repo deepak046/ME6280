@@ -11,18 +11,18 @@ Contains the python code and plots for cauchy steepest descent and conjugate gra
 
 Contains the python code and plots for the multivariable optimization problem solved using a penalty parameter.
 
-### CauchySteepDesc_ConjGradDesc.ipynb
+### Genetic_Algorithm.ipynb
+
+Contains the python code for Genetic Algorithm 
+
+### Simulated_Annealing.ipynb
+
+Contains the python code for Simulated Annealing algorithm
+
+### 
 
 Contains the python code for 
 
-### CauchySteepDesc_ConjGradDesc.ipynb
-
-Contains the python code for 
-
-### CauchySteepDesc_ConjGradDesc.ipynb
-
-Contains the python code for 
-
-### CauchySteepDesc_ConjGradDesc.ipynb
+### 
 
 Contains the python code for 
