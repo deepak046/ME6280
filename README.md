@@ -6,8 +6,8 @@ This repository contains the python notebooks for several algorithms discussed a
 ## Unconstrained optimization methods
 
 1. **Newton_Raphson method** - Newton_Raphson.ipynb
-2. **Cauchy's Steepest Descent** - 
-3. **Conjugate Gradient Descent** - 
+2. **Cauchy's Steepest Descent** - CauchySteepDesc_ConjGradDesc.ipynb
+3. **Conjugate Gradient Descent** - CauchySteepDesc_ConjGradDesc.ipynb
 4. **Mutlivariable optimization using Penalty Function** - 
 
 ## Constrained Optimization
@@ -17,8 +17,8 @@ This repository contains the python notebooks for several algorithms discussed a
 
 ## Substitution methods
 
-1. Successive Substitution method - Successive_Subsitution.ipynb
-2. Gauss Seidel algorithm - Gauss_Seidel.ipynb
+1. **Successive Substitution method** - Successive_Subsitution.ipynb
+2. **Gauss Seidel algorithm** - Gauss_Seidel.ipynb
 
 ## Search methods
 
@@ -29,5 +29,5 @@ This repository contains the python notebooks for several algorithms discussed a
 
 ## New Generation Algorithms
 
-1. Genetic Algorithm - Genetic_Algorithm.ipynb
-2. Simulated Annealing - Simulated_Annealin.ipynb
+1. **Genetic Algorithm** - Genetic_Algorithm.ipynb
+2. **Simulated Annealing** - Simulated_Annealin.ipynb
