@@ -30,4 +30,4 @@ This repository contains the python notebooks for several algorithms discussed a
 ## New Generation Algorithms
 
 1. **Genetic Algorithm** - Genetic_Algorithm.ipynb
-2. **Simulated Annealing** - Simulated_Annealin.ipynb
+2. **Simulated Annealing** - Simulated_Annealing.ipynb
