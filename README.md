@@ -3,26 +3,31 @@
 
 This repository contains the python notebooks for several algorithms discussed as part of the "Design and optimization of energy systems" course
 
-### CauchySteepDesc_ConjGradDesc.ipynb
+## Unconstrained optimization methods
 
-Contains the python code and plots for cauchy steepest descent and conjugate gradient descent algorithms
+1. **Newton_Raphson method** - Newton_Raphson.ipynb
+2. **Cauchy's Steepest Descent** - 
+3. **Conjugate Gradient Descent** - 
+4. **Mutlivariable optimization using Penalty Function** - 
 
-### Cylindrical_MultiVariable_Penalty.ipynb
+## Constrained Optimization
 
-Contains the python code and plots for the multivariable optimization problem solved using a penalty parameter.
+1. **Lagrange Multipliers method** - for equality constraints
+2. **Karush-Kuhn Tucker Conditions** - for equality and inequality constraints
 
-### Genetic_Algorithm.ipynb
+## Substitution methods
 
-Contains the python code for Genetic Algorithm 
+1. Successive Substitution method - Successive_Subsitution.ipynb
+2. Gauss Seidel algorithm - Gauss_Seidel.ipynb
 
-### Simulated_Annealing.ipynb
+## Search methods
 
-Contains the python code for Simulated Annealing algorithm
+1. **Exhaustive search** - Exhaustive_Search.ipynb
+2. **Dichotomous_search** - Dichotomous_Search.ipynb
+3. **Golden Section search** - Golden_Section_Search.ipynb
+4. **Fibonacci search** - Fibonacci_Search.ipynb
 
-### 
+## New Generation Algorithms
 
-Contains the python code for 
-
-### 
-
-Contains the python code for 
+1. Genetic Algorithm - Genetic_Algorithm.ipynb
+2. Simulated Annealing - Simulated_Annealin.ipynb
